@@ -4,10 +4,10 @@
 
 ## 😼 About Me
 
-- Year 2 CS student at National University of Singapore
+- Year 3 CS student at National University of Singapore
 - Software Engineering Intern @ Trip.com _(building Hotel AI Agent systems)_
 - Undergraduate Researcher @ NUS Odyssey 2026 _(3D consistency evaluation for video world models)_
-- Incoming TA for CS2103T Software Engineering _(AY26/27 Sem 1)_
+- Incoming TA for CS3241 Computer Graphics _(AY26/27 Sem 1)_
 - Interested in computer graphics, LLMs, and the space where they meet
 
 ## 🐱 Projects
